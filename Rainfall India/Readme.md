@@ -100,9 +100,6 @@ This project provides a comprehensive analysis of rainfall trends in India, leve
 📌 **Next Steps:** Future improvements can include regional analysis, climate factor correlations, and integration with real-time rainfall data.
 
 ---
-## 📬 Contact
-If you have any questions or suggestions, feel free to reach out!
 
-Happy Coding! 😊
 
 
